@@ -1,0 +1,189 @@
+
+body 
+{
+	color:black;
+	background-image:url(desert_background.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover;
+	
+	position: relative;
+	margin : 0;
+}
+
+h1
+{
+	color: #F1F0DC;
+	font-family: sans-serif;
+}	
+
+#image_de_fond
+{
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover;
+}
+
+#Topnav
+{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	font-weight: bold;
+}
+
+#myTopnav
+{
+	font-size: 20px;
+	background-color: rgba(0, 0, 0, .3);
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.topnav
+{
+	margin-left: 27.5px;
+	margin-right: 27.5px;
+	color: #F1F0DC;
+	text-decoration: none;
+	font-family: sans-serif;
+	
+}
+
+#banniereblock
+{
+	text-align: center;
+}
+
+#banniere
+{
+	border: 15px solid rgba(0, 0, 0, .3);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.carnet 
+{
+    position: relative;
+    max-width: 500px; /* Maximum width */
+
+    background-color: rgba(0, 0, 0, .3);
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    /*padding-bottom: 15px;*/	
+}
+
+
+#img_carnet
+{
+	padding-right : 70px;
+}
+
+
+
+
+
+.texte_carnet {
+    position: absolute; /* Position the background text */
+    bottom: 15px; /* Décale le texte sur fond transparent noir, par rapport à l'image du dernier carnet de bord */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 460px; 
+    padding-left: 20px; /* Some padding */
+    padding-right: 20px;   
+
+
+}
+
+
+.milieu1
+{	
+	display:flex;
+	justify-content: center;
+	margin-top: 40px; /* espacement entre banniere et première ligne de carrés */
+	height : 435px;
+}
+
+.milieu2
+{	
+	display:flex;
+	justify-content: center;
+	margin-top: 40px; /* espacement entre première et deuxieme ligne de carrés */
+}
+
+#financement
+{
+	background-color: rgba(0, 0, 0, .3);
+	margin-left: 200px;
+	
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+}
+
+#GPS
+{
+	margin-left : 70px;
+	background-color: rgba(0, 0, 0, .3);
+	
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+  
+}
+
+#boutique
+{
+	background-color: rgba(0, 0, 0, .3);
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+	margin-right : 26px; 
+
+}	
+
+.lien_autres_pages
+{
+	text-decoration: none;
+}
+
+#footer
+{
+	width:100%;
+	background-color: #353535;
+	justify-content: center;
+	display:flex;
+	margin-top : 70px;
+	padding-bottom : 30px;
+	
+}	
+
+#sponsors
+{
+	width : 40%;
+	margin: 25px;
+}	
+
+.liens_reseaux
+{
+	color : white;
+	font-size : 20px;
+ 	
+}	
+
+
+.logo
+{
+	margin-right: 10px;
+}
+
+
+#reseaux
+{
+	margin: 25px;
+}

@@ -1,0 +1,188 @@
+
+body 
+{
+	color:black;
+	background-image:url(desert_background.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover;
+	
+	position: relative;
+	margin : 0;
+}
+
+h1
+{
+	color: #F1F0DC;
+	font-family: sans-serif;
+}	
+
+
+#image_de_fond
+{
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover;
+}
+
+#Topnav
+{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	font-weight: bold;
+
+}
+
+#myTopnav
+{
+	font-size: 20px;
+	background-color: rgba(0, 0, 0, .3);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #F1F0DC;
+	font-family: sans-serif;
+}
+
+.topnav
+{
+	margin-left: 27.5px;
+	margin-right: 27.5px;
+	color: #F1F0DC;
+	text-decoration: none;
+	
+}
+
+#banniereblock
+{
+	text-align: center;
+}
+
+#banniere
+{
+	border: 15px solid rgba(0, 0, 0, .3);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+#milieu
+{	
+	background-color: rgba(0, 0, 0, .3);
+	max-width: 1031px;
+	padding : 15px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+	
+
+.pres_projet
+{
+	background-color: rgba(255,255,255,.6); 
+	padding: 15px;
+	margin : 10px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	
+}
+
+.pres_projet h1
+{
+	font-family: sans-serif;
+}	
+	
+
+.text_img
+{
+	display: flex;
+	font-size: 18px;
+}
+
+#img_4l_coincee
+{
+	width: 400px;
+	height: 300px;
+	margin: 10px; 
+	margin-right: 25px;
+}
+
+#enfants_desert
+{
+	width: 350px;
+	height: 230px;
+	margin: 10px;
+}
+
+#enfants_desert_logo
+{
+	height: 150px;
+	margin: 15px;
+	padding-top: 10px;
+}
+
+#text2
+{
+	text-align: right;
+	margin-top: 10px;
+	font-size: 18px;
+
+}
+
+#footer
+{
+	width:100%;
+	background-color: #353535;
+	justify-content: center;
+	display:flex;
+	margin-top : 70px;
+	padding-bottom : 30px;
+	
+}	
+
+#sponsors
+{
+	width : 40%;
+	margin: 25px;
+}	
+
+.sponso_logos
+{
+	height: 120px;
+}	
+
+
+
+.liens_reseaux
+{
+	color : white;
+	font-size : 16px;
+	texte-decoration: none;
+ 	
+}	
+
+#footer h1
+{
+	font-size: 25px;
+}
+
+.logo
+{
+	margin-right: 10px;
+	height: 55px;
+}
+
+
+#reseaux
+{
+	margin: 25px;
+}
+
+
+	

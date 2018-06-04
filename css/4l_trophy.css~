@@ -1,0 +1,164 @@
+body 
+{
+	color:black;
+	background-image:url(desert_background.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover;
+	
+	position: relative;
+	margin : 0;
+}
+
+h1
+{
+	color: #F1F0DC;
+	font-family: sans-serif;
+}	
+
+#image_de_fond
+{
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: cover;
+}
+
+#Topnav
+{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+#myTopnav
+{
+	font-size: 20px;
+	background-color: rgba(0, 0, 0, .3);
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.topnav
+{
+	margin-left: 27.5px;
+	margin-right: 27.5px;
+	color: #F1F0DC;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: sans-serif;
+	
+}
+
+#banniereblock
+{
+	text-align: center;
+}
+
+#banniere
+{
+	border: 15px solid rgba(0, 0, 0, .3);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#milieu 
+{
+
+	background-color: rgba(0, 0, 0, .3);
+	max-width: 1031px;
+	padding : 15px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#cadre
+{
+	color :black;
+	background-color: rgba(255,255,255,.6);
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	padding-right: 12px;
+	margin : 10px;
+	font-size: 18px;
+
+}
+
+#cadre h1
+{
+	font-family: sans-serif;
+}	
+
+
+#logo
+{
+	float : right;
+	overflow: auto;
+	padding : 2px;
+	
+
+}
+
+
+
+#video
+{
+	width: 985px;
+	height: 480px;
+}
+
+#footer
+{
+	width:100%;
+	background-color: #353535;
+	justify-content: center;
+	display:flex;
+	margin-top : 70px;
+	padding-bottom : 30px;
+	
+}	
+
+#sponsors
+{
+	width : 40%;
+	margin: 25px;
+}	
+
+.sponso_logos
+{
+	height: 120px;
+}	
+
+
+
+.liens_reseaux
+{
+	color : white;
+	font-size : 16px;
+	texte-decoration: none;
+ 	
+}	
+
+#footer h1
+{
+	font-size: 25px;
+}
+
+.logo
+{
+	margin-right: 10px;
+	height: 55px;
+}
+
+
+#reseaux
+{
+	margin: 25px;
+}
+
+
+	
